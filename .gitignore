@@ -1,0 +1,5 @@
+*.hdf
+*.txt
+*.csv
+*.sav
+.netrc
