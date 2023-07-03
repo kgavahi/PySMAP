@@ -300,8 +300,8 @@ def get_credentials(url):
         if not username:
             #username = get_username()
             #password = get_password()
-            username = 'kgavahi'
-            password = '491Newyork'
+            username = '********'
+            password = '********'
         credentials = '{0}:{1}'.format(username, password)
         credentials = base64.b64encode(credentials.encode('ascii')).decode('ascii')
 
